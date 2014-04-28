@@ -1,0 +1,12 @@
+beans.admin
+beans.announcement
+beans.file
+beans.information
+beans.mail
+beans.post
+beans.teacher
+database.connection
+database.operations
+server.interfaces
+server.reflection
+server.service
